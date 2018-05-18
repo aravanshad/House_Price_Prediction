@@ -14,7 +14,7 @@ The code is provided in the `Codes` folder.
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `Codes/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `codes/` (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook {name of notebook file}.ipynb
